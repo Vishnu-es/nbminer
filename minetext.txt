@@ -1,0 +1,1 @@
+nbminer -a kawpow -o stratum+tcp://kp.unmineable.com:3333 -u XRP:rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr:773433007.immortalartist#r1bk-0yqd -log

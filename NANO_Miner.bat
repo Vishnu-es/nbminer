@@ -1,0 +1,1 @@
+nbminer -a kawpow -o stratum+tcp://kp.unmineable.com:3333 -u NANO:nano_1be4ggm16kpnfosctxnngcxpe7j1inhsn51zn85k3gxyp1nd353gr6jsrn1s.immortalartist#r1bk-0yqd -log
